@@ -3,4 +3,4 @@ This notebook assumes proficiency in python, numpy, pandas, and scikit-learn. We
 
 The provided notebook has the following python dependencies:
 
-    `pip install pandas numpy afqinsight seaborn scikit-learn`
+    pip install pandas numpy afqinsight seaborn scikit-learn
