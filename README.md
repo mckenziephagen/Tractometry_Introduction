@@ -4,3 +4,10 @@ This notebook assumes proficiency in python, numpy, pandas, and scikit-learn. We
 The provided notebook has the following python dependencies:
 
     pip install pandas numpy afqinsight seaborn scikit-learn
+
+Once you are done with this tutorial, if you are interested in learning more about interacting with MRI data more directly, these tutorials may be useful:
+
+1. https://carpentries-incubator.github.io/SDC-BIDS-IntroMRI/index.html
+
+2. https://carpentries-incubator.github.io/SDC-BIDS-dMRI/index.html
+
